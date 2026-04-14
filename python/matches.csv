@@ -1,0 +1,4 @@
+defect_index,qa_sno,quantity,confidence,reason,method
+0,,1,0.0,No match found,fuzzy
+1,,1,0.0,No match found,fuzzy
+2,3.0,2,0.369,Fuzzy match: Interior trim missing parts,fuzzy

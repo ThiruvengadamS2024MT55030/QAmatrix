@@ -1,0 +1,4 @@
+defect_index,matched_sno,confidence,reason,method
+0,,0.0,No match,fuzzy
+1,2.0,0.244,Fuzzy: Suspension fastening issue,fuzzy
+2,3.0,0.369,Fuzzy: Interior trim missing parts,fuzzy
