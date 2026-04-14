@@ -1,0 +1,8 @@
+# QA Matrix - Python Processing Pipeline
+# Install: pip install -r requirements.txt
+
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0       # Excel file support
+requests>=2.31.0       # AI Gateway API calls
+scikit-learn>=1.3.0    # Optional: advanced NLP features
