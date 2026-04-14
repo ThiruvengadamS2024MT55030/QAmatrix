@@ -1,4 +1,0 @@
-s_no,source,operation_station,designation,concern,defect_code,defect_location_code,defect_rating,weekly_recurrence,recurrence,recurrence_count_plus_defect,trim,chassis,final,q_control,q_control_detail,mfg_rating,quality_rating,plant_rating,workstation_status,mfg_status,plant_status
-1,DVX,Trim 10,TRIM,Exterior surface damage,T1001,L001,1,"[0, 0, 0, 0, 0, 0]",0,1,{},{},{},{},{},0,0,0,NG,NG,NG
-2,DVX,Chassis 20,CHASSIS,Suspension fastening issue,C2001,L002,3,"[0, 0, 0, 0, 0, 0]",0,3,{},{},{},{},{},0,0,0,NG,NG,NG
-3,DVX,Final 30,FINAL,Interior trim missing parts,F3001,L003,1,"[0, 0, 0, 0, 0, 2]",2,3,{},{},{},{},{},0,0,0,NG,NG,NG
